@@ -217,17 +217,23 @@ input[type=submit] {
 }
 @media only screen and (max-width: 980px){
   .main-section  {
+    margin-left: 18%;
+    margin-right: 18%;
     width:800px;
   }
 }
 @media only screen and (max-width: 768px){
   .main-section  {
-    width:625px;
+    margin-left: 50px;
+    margin-right: 90px;
+    width:450px;
   }
 }
 
 @media only screen and (max-width: 640px){
   .main-section  {
+    margin-left: 10%;
+    margin-right: 10%;
     width:500px;
   }
 }
